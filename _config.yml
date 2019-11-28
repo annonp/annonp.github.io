@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Wit Sirawit"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "EE & CS Undergraduate at KAIST."
-  location         : "Daejeon, South Korea"
+  bio              : "EE & CS Undergraduate<br />KAIST"
+  location         : "Daejeon,<br />South Korea"
   email            :
   linkedin         : "sirawit-p-7ab084143/"
   links:
